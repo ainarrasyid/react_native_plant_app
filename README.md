@@ -4,6 +4,7 @@
 </p>
 
 # PlantsApp
+Belajar Layouting react native dari design figma
 
 
 ## Environment
